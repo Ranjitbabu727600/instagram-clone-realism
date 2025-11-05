@@ -66,7 +66,7 @@ const Post = ({ username, avatar, image, likes, caption, timeAgo }: PostProps) =
         {/* Caption */}
         <div className="text-sm">
           <span className="font-semibold mr-2">{username}</span>
-          <span>{caption}</span>
+          <span className="break-words">{caption}</span>
         </div>
 
         {/* Time */}

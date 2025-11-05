@@ -1,0 +1,62 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "username": "sarah_j",
+      "avatar": "src/assets/user1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "mike_photos",
+      "avatar": "src/assets/user2.jpg"
+    },
+    {
+      "id": 3,
+      "username": "emma_travel",
+      "avatar": "src/assets/user3.jpg"
+    },
+    {
+      "id": 4,
+      "username": "alex_fit",
+      "avatar": "src/assets/user4.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "username": "sarah_j",
+      "avatar": "src/assets/user1.jpg",
+      "image": "src/assets/post1.jpg",
+      "likes": 1284,
+      "caption": "Paradise found 🌴 Best sunset I've ever seen!",
+      "timeAgo": "2 HOURS AGO"
+    },
+    {
+      "id": 2,
+      "username": "mike_photos",
+      "avatar": "src/assets/user2.jpg",
+      "image": "src/assets/post2.jpg",
+      "likes": 892,
+      "caption": "Sunday brunch vibes ☕ Who else loves a good croissant?",
+      "timeAgo": "5 HOURS AGO"
+    },
+    {
+      "id": 3,
+      "username": "emma_travel",
+      "avatar": "src/assets/user3.jpg",
+      "image": "src/assets/post3.jpg",
+      "likes": 2156,
+      "caption": "City lights and blue hour magic ✨",
+      "timeAgo": "8 HOURS AGO"
+    },
+    {
+      "id": 4,
+      "username": "alex_fit",
+      "avatar": "src/assets/user4.jpg",
+      "image": "src/assets/post4.jpg",
+      "likes": 1543,
+      "caption": "Morning meditation hits different at this altitude 🧘‍♀️",
+      "timeAgo": "12 HOURS AGO"
+    }
+  ]
+}
